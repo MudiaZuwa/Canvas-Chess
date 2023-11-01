@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      @font-face {
+        font-family: "CustomFont";
+        src: url("./Resources/PressStart2P-Regular.ttf") format("truetype");
+      }
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="gameScreen"></canvas>
+    <script src="GameBody.js"></script>
+    <script src="piecesData.js"></script>
+    <script src="Pieces.js"></script>
+    <script src="getPieceMovementHint.js"></script>
+    <script src="TouchListener.js"></script>
+    <script src="MouseListener.js"></script>
+    <script src="Game.js"></script>
+    <script src="index.js"></script>
+  </body>
+</html>
