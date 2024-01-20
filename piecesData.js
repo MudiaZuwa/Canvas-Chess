@@ -27,6 +27,6 @@ pieceImages.player1.Rook.src = "./Resources/b_rook_1x.png";
 pieceImages.player2.Bishop.src = "./Resources/w_bishop_1x.png";
 pieceImages.player2.King.src = "./Resources/w_king_1x.png";
 pieceImages.player2.Knight.src = "./Resources//w_knight_1x.png";
-pieceImages.player2.Pawn.src = "./Resources/w_Pawn_1x.png";
+pieceImages.player2.Pawn.src = "./Resources/w_pawn_1x.png";
 pieceImages.player2.Queen.src = "./Resources/w_queen_1x.png";
 pieceImages.player2.Rook.src = "./Resources/w_rook_1x.png";
